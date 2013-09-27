@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/**
+*
+*	${1:Insert documentation here}
+*	${2:@Param}
+*	${3:@Param}
+*
+**/
+
+]]></content>
+	<tabTrigger>comm-documentation</tabTrigger>
+	<description>Comment - Block style comment</description>
+</snippet>
